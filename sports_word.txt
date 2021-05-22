@@ -1,0 +1,97 @@
+word length = 96
+fives
+box lacrosse
+mountaineering
+weightlifting
+skeleton sledding
+schwingen
+deck tennis
+korfball
+tennis
+orienteering
+water polo
+diving
+figure skating
+freestyle wrestling
+gaelic football
+shooting
+windsurfing
+dogsled racing
+sculling
+golf
+rhythmic gymnastics
+boxing
+canoeing
+badminton
+racquetball
+waterskiing
+greco-roman wrestling
+bungee jumping
+ice hockey
+cycle ball
+field archery
+fly-fishing
+volleyball
+team handball
+cricket
+short-track speed skating
+bowls
+racing
+jai alai
+paragliding
+freestyle skiing
+rodeo
+motorcycle racing
+skate sailing
+lacrosse
+horse racing
+eisstockschiessen
+bocce
+cumberland wrestling
+wrestling
+bobsledding
+field hockey
+fencing
+cyclo-cross
+curling
+gliding
+gridiron football
+kabaddi
+roller-skating
+twenty20 cricket
+sumo
+synchronized swimming
+cross-country skiing
+skibobbing
+stock-car racing
+skin diving
+ice skating
+skiing
+bodybuilding
+speed skiing
+aerobatics
+hang gliding
+iceboating
+powerlifting
+cornish wrestling
+skating
+rugby
+weight throw
+real tennis
+basketball
+paddle tennis
+skydiving
+baseball
+polo
+softball
+cycling
+ski jumping
+hiking
+speed skating
+skeet shooting
+croquet
+platform tennis
+table tennis
+snowboarding
+polocrosse
+harness racing

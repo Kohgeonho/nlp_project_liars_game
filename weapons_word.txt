@@ -1,0 +1,50 @@
+word length = 49
+cannon
+bomb
+dhū al-faqār
+rocket launcher
+bayonet
+revolver
+blunderbuss
+pistol
+shotgun
+bowie knife
+air gun
+club
+pike
+depth charge
+spear
+spear-thrower
+nightstick
+automatic rifle
+musket
+rifle
+improvised explosive device
+scimitar
+mortar
+stun gun
+armalite rifle
+grenade launcher
+torpedo
+big bertha
+quarterstaff
+flame thrower
+mine
+trebuchet
+sling
+machine gun
+submachine gun
+lance
+carbine
+halberd
+thermonuclear warhead
+blowgun
+gun
+crossbow
+bazooka
+onager
+sword
+semiautomatic pistol
+gatling gun
+handgun
+land mine
