@@ -1,4 +1,4 @@
-word length = 129
+word length = 128
 Afghanistan
 Algeria
 Angola
@@ -15,7 +15,6 @@ Brazil
 Bulgaria
 Burkina Faso
 Burundi
-Côte d'Ivoire
 Cambodia
 Cameroon
 Canada
@@ -24,11 +23,11 @@ Chad
 Chile
 China
 Colombia
-Congo (Congo-Brazzaville)
+Congo
 Costa Rica
 Croatia
 Cuba
-Czechia (Czech Republic)
+Czechia
 Democratic Republic of the Congo
 Denmark
 Dominican Republic
@@ -72,7 +71,7 @@ Mexico
 Moldova
 Morocco
 Mozambique
-Myanmar (formerly Burma)
+Myanmar
 Nepal
 Netherlands
 New Zealand
