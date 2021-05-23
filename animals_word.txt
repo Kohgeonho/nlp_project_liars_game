@@ -1,4 +1,4 @@
-word length = 406
+word length = 200
 peccary
 sea turtle
 pangolin
@@ -12,20 +12,17 @@ ermine
 mako shark
 white shark
 snailfish
-black bear
 crow
 basking shark
 vulture
 alligator
 collared lizard
-roach
+cockroach
 owl
-narrow-mouthed toad
 gull
 onager
 toad
 wood owl
-ring-billed gull
 mink
 raccoon
 lemon shark
@@ -35,25 +32,18 @@ jay
 goat
 sperm whale
 shark
-harpy eagle
 rabbit
 sea horse
 quail
-roadrunner
 crocodile bird
 coyote
 junco
 macaw
-canary
 herring
-three-toed sloth
-cassowary
-rockhopper penguin
 elephant
 cat
 polar bear
 king cobra
-painted turtle
 deer
 gnu
 robin
@@ -63,345 +53,149 @@ walrus
 gila monster
 blackbird
 kookaburra
-house sparrow
-worm snake
-wren
-serval
+sparrow
 eagle
 parakeet
-african gray parrot
 sloth
 blesbok
-bobcat
 snow leopard
-northern elephant seal
 elk
 camel
-scarlet macaw
 fennec
-bull snake
-snow sheep
-blue jay
-currawong
 dingo
-shrew
-sea bass
-harp seal
-canine
-crossopterygian
+bass
 ostrich
-seal
 anteater
 plover
-canada goose
 dory
-monotreme
 coelacanth
-free-tailed bat
 salamander
 bear
 bluebird
-coati
-snow goose
 corn snake
-red-tailed hawk
 dolphin
 pigeon
-sika
-arctic tern
-ape
-wood turtle
 horse
 cape buffalo
-black caiman
 gazelle
-frilled lizard
-gulper
-flounder
-pika
 eland
-haddock
-sandpiper
 whale
-collared peccary
 sea otter
-coral snake
 lion
-marsupial
-bottlenose dolphin
-tree shrew
+shrew
 bullfrog
 ferret
 bellbird
-pupfish
 hawk
 piranha
 bush pig
 tiger
-pearlfish
-rat snake
 otter
-oxpecker
 cockatoo
-tarpon
 chickadee
 finch
-armadillo lizard
-spectacled porpoise
-blue whale
-red wolf
 gecko
-okapi
-spiny-tailed lizard
-kudu
 rooster
-california quail
-electric catfish
-insectivore
+catfish
 ocelot
-flying lemur
-porcupine fish
+lemur
 kiwi
 egret
-hyrax
-manta ray
-lagomorph
-american robin
-common rhea
+rhea
 reindeer
-galapagos shark
-ruby-throated hummingbird
-ptarmigan
-dall sheep
 antelope
 ray
 manatee
-sharp-tailed grouse
-puffin
-petrel
-thresher shark
 lorikeet
-gray whale
-desman
 greenland shark
-spectacled caiman
-yellow mongoose
-marbled murrelet
-tiger shark
-short-tailed shrew
 leopard
 llama
-american flamingo
 peacock
 hedgehog
-spotted owl
+owl
 falcon
-right whale
-oropendola
-ciconiiform
-wrenthrush
-hatchetfish
-trumpeter swan
 mackerel
-nuthatch
-zorille
-flying fox
-binturong
 moose
 bald eagle
-olingo
-american golden plover
 fox
-fulmar
-sandhill crane
-tapir
-pardalote
 killer whale
-giant panda
+panda
 sailfish
-indian elephant
-kinkajou
 armadillo
-brown pelican
 bactrian camel
-lake trout
-barnacle goose
-musk ox
 trout
 frog
-bighorn sheep
-white rhinoceros
-humpback whale
+sheep
 softshell turtle
-oryx
-weddell seal
-rodent
-brown bear
-quetzal
 wolf
 bat
 chicken
-fin whale
-nine-banded armadillo
-sculpin
-woolly monkey
+monkey
 mongoose
 vicuña
 eel
 puffer
 salmon
-tree sparrow
-monarch
-dugong
-grouper
-rail
 vampire bat
-fruit bat
-spiny eel
+bat
 swordfish
 swift
-western meadowlark
-stingray
 elephant seal
 tuna
 woodpecker
 minnow
 chameleon
 emu
-laughing dove
 goldfinch
-jaguarundi
 donkey
 alpaca
 mallard
-xenarthran
-pronghorn
 sunfish
 swan
 crane
 filefish
 hammerhead shark
-adélie penguin
-loon
 cow
-grizzly bear
-peregrine falcon
-white pelican
-russell’s viper
 lynx
-snapper
 loach
 anaconda
 heron
-african wild dog
-parrot fish
-african penguin
 emperor penguin
-leopard seal
 tortoise
-toucanet
-bushbuck
-lumpsucker
-river otter
-blue shark
 dog
 dove
 skunk
-mustelid
-marbled cat
-whitefish
-impala
 hummingbird
-sparrow
-rock dove
 jaguar
-downy woodpecker
 meerkat
 cheetah
 snake
-american crocodile
 hare
-golden eagle
 guinea fowl
-dark-eyed junco
-california sea lion
-proboscidean
-northern fur seal
-ostariophysan
+sea lion
 badger
-pompano
-african wildcat
 yak
-caracara
-spadefish
 turkey
-tern
-caiman lizard
-snapping turtle
 whale shark
-maned wolf
-porpoise
-smooth hound
-tuatara
-angelfish
+hound
 goldfish
-mockingbird
-file snake
-barasingha
-wolverine
-bullhead shark
-artiodactyl
-white-breasted nuthatch
 panther
-domestic pigeon
-burrowing asp
 red panda
-crested black macaque
-american bison
 hen
-snowy owl
 starling
-newt
 weasel
 white tiger
-bristling
 mole
 nightingale
-northern cardinal
 baboon
-merganser
-african savanna elephant
-narwhal
 goose
-horned toad
-water snake
 zebra
-keel-billed toucan
 giraffe
-white-tailed deer
 hyena
 albatross
 flamingo
-sloth bear
-umbrellabird
-gar
 turtle
-ungulate
-great horned owl
-chinstrap penguin
-primate
 rhinoceros
-bull shark
 lizard
-scorpionfish
-nene
-cardinal
-brown tree snake
-kakapo
-gavial
-skate
-barracuda
-golden cat
-tanager
 duck
 arctic fox
