@@ -1,97 +1,74 @@
-word length = 96
-fives
-box lacrosse
-mountaineering
-weightlifting
-skeleton sledding
-schwingen
-deck tennis
-korfball
-tennis
-orienteering
-water polo
-diving
-figure skating
-freestyle wrestling
-gaelic football
-shooting
-windsurfing
-dogsled racing
-sculling
-golf
-rhythmic gymnastics
-boxing
-canoeing
-badminton
-racquetball
-waterskiing
-greco-roman wrestling
-bungee jumping
-ice hockey
-cycle ball
-field archery
-fly-fishing
-volleyball
-team handball
-cricket
-short-track speed skating
-bowls
-racing
-jai alai
-paragliding
-freestyle skiing
-rodeo
-motorcycle racing
-skate sailing
-lacrosse
-horse racing
-eisstockschiessen
-bocce
-cumberland wrestling
-wrestling
-bobsledding
-field hockey
-fencing
-cyclo-cross
-curling
-gliding
-gridiron football
-kabaddi
-roller-skating
-twenty20 cricket
-sumo
-synchronized swimming
-cross-country skiing
-skibobbing
-stock-car racing
-skin diving
-ice skating
-skiing
-bodybuilding
-speed skiing
+word length = 73
 aerobatics
-hang gliding
-iceboating
-powerlifting
-cornish wrestling
-skating
-rugby
-weight throw
-real tennis
-basketball
-paddle tennis
-skydiving
+archery
+athletics
+badminton
 baseball
-polo
-softball
-cycling
-ski jumping
-hiking
-speed skating
-skeet shooting
+basketball
+bobsledding
+bodybuilding
+bowling
+boxing
+bungee jumping
+canoeing
+car racing
+cricket
 croquet
-platform tennis
-table tennis
+curling
+cycling
+darts
+diving
+dogsled racing
+fencing
+field hockey
+figure skating
+fishing
+football
+gliding
+golf
+handball
+hang gliding
+hiking
+horse racing
+ice hockey
+ice skating
+kabaddi
+lacrosse
+marathon
+motorcycle racing
+mountaineering
+orienteering
+paragliding
+powerlifting
+racing
+racquetball
+rhythmic gymnastics
+rodeo
+rollerskating
+rugby
+sculling
+shooting
+skating
+skeleton
+ski jumping
+skibobbing
+skiing
+skin diving
+skydiving
 snowboarding
-polocrosse
-harness racing
+soccer
+softball
+speed skating
+speed skiing
+sumo
+swimming
+table tennis
+taekwondo
+tennis
+volleyball
+water polo
+waterskiing
+weight throw
+weightlifting
+windsurfing
+wrestling

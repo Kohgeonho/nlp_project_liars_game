@@ -1,7 +1,6 @@
-word length = 49
+word length = 46
 cannon
 bomb
-dhū al-faqār
 rocket launcher
 bayonet
 revolver
@@ -10,11 +9,9 @@ pistol
 shotgun
 bowie knife
 air gun
-club
 pike
 depth charge
 spear
-spear-thrower
 nightstick
 automatic rifle
 musket
