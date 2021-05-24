@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import seaborn as sns
+import matplotlib.pyplot as plt
 from collections import defaultdict
 import requests
 import json
@@ -41,6 +42,7 @@ class WordTable():
         np_values = np_values.reshape(size, size)
         np_keys = np_keys.reshape(size, size)
 
+        ax = plt.figure(figsize=(14, 11))
         df = pd.DataFrame(np_values)
         annot = [["{}\n{}".format(np_keys[i][j], np_values[i][j]) for j in range(size)] for i in range(size)]
-        sns.heatmap(df, annot=annot, fmt ='')
+        ax = sns.heatmap(df, annot=annot, fmt ='', annot_kw={'size':10})
