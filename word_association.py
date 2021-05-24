@@ -45,4 +45,4 @@ class WordTable():
         ax = plt.figure(figsize=(14, 11))
         df = pd.DataFrame(np_values)
         annot = [["{}\n{}".format(np_keys[i][j], np_values[i][j]) for j in range(size)] for i in range(size)]
-        ax = sns.heatmap(df, annot=annot, fmt ='', annot_kw={'size':10})
+        ax = sns.heatmap(df, annot=annot, fmt ='', annot_kws={'size':10})
