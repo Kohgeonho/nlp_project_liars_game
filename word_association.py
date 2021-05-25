@@ -42,7 +42,7 @@ class WordTable():
         np_values = np_values.reshape(size, size)
         np_keys = np_keys.reshape(size, size)
 
-        ax = plt.figure(figsize=(14, 11))
+        ax = plt.figure(figsize=(10, 7))
         df = pd.DataFrame(np_values)
         annot = [["{}\n{}".format(np_keys[i][j], np_values[i][j]) for j in range(size)] for i in range(size)]
         ax = sns.heatmap(df, annot=annot, fmt ='', annot_kws={'size':10})
