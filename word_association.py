@@ -15,21 +15,25 @@ class WordTable():
 
     def __init__(self, wordlist):
         self.score = defaultdict(int)
-        self.SWS = defaultdict(lambda: defaultdict(int))
         for word in wordlist:
             self.score[word] = 0
+
+        self.SWS = self.buildSWS()
         
     def resetScore(self):
         self.score = self.score.fromkeys(self.score, 0)
 
     def buildSWS(self):
+        SWS = defaultdict(lambda: defaultdict(int))
         for word in self.score:
             sws_tree = smallworldscore(word)
             forward = sws_tree['forward']
             backward = sws_tree['backward']
 
             for score in forward + backward:
-                self.SWS[word][score['word']] = score['freq']
+                SWS[word][score['word']] = score['freq']/100
+
+        return SWS
             
     def assocScore(self, related_word):
         for word in self.score:
@@ -45,4 +49,4 @@ class WordTable():
         ax = plt.figure(figsize=(10, 7))
         df = pd.DataFrame(np_values)
         annot = [["{}\n{}".format(np_keys[i][j], np_values[i][j]) for j in range(size)] for i in range(size)]
-        ax = sns.heatmap(df, annot=annot, fmt ='', annot_kws={'size':10})
+        ax = sns.heatmap(df, annot=annot, fmt ='', annot_kws={'size' : 10})
