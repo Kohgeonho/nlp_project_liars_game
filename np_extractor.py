@@ -46,3 +46,21 @@ def extract_NPs(sentence):
     chunked = cp.parse(sent)
     NPS = [leaf for leaf in leaves(chunked)]
     return sentence, NPS
+
+def NP_compare(definitions, des_NP):
+
+    Noun = 0
+    Adj = 0
+    
+    for def_NP in definitions:
+        for word, tag in des_NP:
+            if tag.startswith('NN'):
+                if word in [w for w, _ in def_NP]:
+                    Noun += 1 
+            if not tag.startswith('DT'):
+                if word in [w for w, _ in def_NP]:
+                    Adj += 1
+
+    if Noun and Adj:
+        return True
+    return False
