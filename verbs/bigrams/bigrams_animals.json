@@ -1,0 +1,22 @@
+{
+    "('is', 'a')": 123,
+    "('is', 'the')": 86,
+    "('have', 'been')": 55,
+    "('found', 'in')": 54,
+    "('known', 'as')": 46,
+    "('are', 'the')": 37,
+    "('has', 'been')": 35,
+    "('have', 'a')": 34,
+    "('are', 'a')": 27,
+    "('refer', 'to')": 27,
+    "('related', 'to')": 27,
+    "('are', 'also')": 26,
+    "('referred', 'to')": 24,
+    "('called', 'a')": 23,
+    "('are', 'not')": 22,
+    "('live', 'in')": 22,
+    "('are', 'found')": 19,
+    "('has', 'a')": 18,
+    "('is', 'called')": 18,
+    "('is', 'an')": 17
+}
