@@ -4,7 +4,7 @@ from nltk.corpus import wordnet as wn
 from nltk import word_tokenize, sent_tokenize, pos_tag, FreqDist, bigrams, trigrams, FreqDist
 from tqdm import tqdm
 
-category = "animals"
+category = "jobs"
 wiki = wikipediaapi.Wikipedia('en')
 
 with open(f"verbs_{category}.json") as f:
